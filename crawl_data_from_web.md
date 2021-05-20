@@ -1,6 +1,7 @@
 #Crawl dữ liệu từ trang web khác
 
 ###Mở đầu
+
 Hiện nay với thời đại công nghệ hóa, hiện đại hóa chúng ta có thể tìm kiếm bất kì thông tin nào trên website. 
 Nhưng nếu với hàng ngàn thông tin như thế làm sao chúng ta có thể tổng hợp về kho dữ liệu của chúng ta?
 Điều này hoàn toàn có thể làm được và sử dụng thông tin hợp pháp. 
@@ -13,6 +14,7 @@ Với trường hợp 1 chúng rất dễ dàng lấy được dữ liệu. Như
 Do vậy ở bài này ta cùng đi tìm hiểu bước khởi đầu để lấy được dữ liệu web khác về kho của mình.
 
 ###Nội dung
+
 Có rất nhiều công cụ để ta sử dụng cho việc này. Ở bài tìm hiểu lần này mình sử dụng NodeJS để thực hiện `Crawl`.
 
 **1. Cài đặt dự án**
@@ -108,9 +110,12 @@ Kết quả chúng ta thu được
 ![kết quả lấy dữ liêu](image/result.PNG)
 
 #Kết Luận
+
 Qua bài này chúng ta đã biết sơ qua về cách lấy được dữ liệu web khác về kho của mình. Tiếp đến chúng ta sẽ đi sâu hơn để
 lấy được nhiều dữ liệu hơn
+
 #Tài Liệu
+
 https://www.npmjs.com/package/cheerio
 
 https://github.com/request/request-promise
