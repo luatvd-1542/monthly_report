@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "name": "crawl-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
