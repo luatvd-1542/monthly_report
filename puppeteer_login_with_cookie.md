@@ -1,5 +1,6 @@
 ### Mở đầu 
 Việc tổng hợp dữ liệu từ các trang web khác nhiều lúc chúng ta vấp phải những rào cản. Ví dụ trang web đó yêu cầu đăng nhập...v..v
+
 Chúng ta sẽ phải mô phỏng tất cả các bước. Bài này chúng ta sẽ làm bước đăng nhập và lưu lại ghi nhớ đăng nhập
 
 ### Nội dung
@@ -50,7 +51,7 @@ Có những trang web hiện nay sử dụng quá nhiều javaScript khiến tra
 Nếu 
 javaScript không cần thiết chúng ta có thể bỏ để giảm tải thời gian xử lý. Hãy thử từng page 1 xem chúng ta loại bỏ được ở những page nào.
 
-- Nhập thông tin đăng nhập
+- **Nhập thông tin đăng nhập**
 
 ```js
 import { Page, launch } from "puppeteer";
